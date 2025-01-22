@@ -1,1 +1,1 @@
-# Financial-Engineering-in-C-
+# Quant Modeling in C++
