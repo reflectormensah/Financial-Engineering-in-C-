@@ -1,1 +1,1 @@
-# Quant Modeling in C++
+# Quantitative Modeling in C++
